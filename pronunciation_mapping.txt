@@ -1,3 +1,6 @@
+This file contains list of Kanji or Hanzi characters that
+ are homophenes in both Japanese and Chinese.
+
 こ: 古(gǔ) 故(gù) 鼓(gǔ) 孤(gū) 固(gù) 雇(gù)
 き: 亀(guī) 鬼(guǐ) 貴(guì) 帰(guī) 規(guī) 軌(guǐ)
 おう: 応(yìng, ying) 桜(yīng)
