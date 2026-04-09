@@ -82,3 +82,6 @@ This file contains list of Kanji or Hanzi characters that
 か: 加(jiā) 家(jiā) 仮(jiǎ, jià) 甲(jiǎ) 稼(jià) 価(jià) 架(jià)
 い: 為(wéi) 維(wéi) 威(wēi) 胃(wèi) 違(wéi) 囲(wéi) 位(wèi)
 ちょう: 張(zhuāng) 帳(zhàng) 長(zhǎng)
+きょ: 拒(jù) 距(jù) 拠(jù) 巨(jù)
+きょう: 胸(xiōng) 兄(xiōng) 凶(xiōng)
+きょ: 許(xǔ) 虚(xū) 墟(xū)
