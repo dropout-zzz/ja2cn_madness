@@ -1,0 +1,5 @@
+This file contains list of characters those
+ were coined uniquely in Japanese.
+
+匂 におう
+込 こむ
