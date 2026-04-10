@@ -5,3 +5,4 @@
 * [List of vocabularies with *daiyouji*](word_representations.tsv): Things that look differently in old japanese and now but of the same roots.
 * [List of *kokuji*](exclusive_chars.txt): Characters that are only present in Japanese. See the header in the file for more details.
 * [List of characters that are no longer used in chinese](rare_now_in_chinese.txt): See the file header for more details.
+* [List of characters with unique meaning assignment in japanese](exclusive_meaning.txt): See the file header for more information.
