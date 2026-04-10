@@ -4,3 +4,4 @@
 * [List of chinese characters and their japanese-specific simplified versions](character_variations.tsv): Comparations of chinese character and how they look differnetly in japanese. Simplified chinese characters are mostly not included for simplicity. **No longer maintained.**
 * [List of vocabularies with *daiyouji*](word_representations.tsv): Things that look differently in old japanese and now but of the same roots.
 * [List of *kokuji*](exclusive_chars.txt): Characters that are only present in Japanese. See the header in the file for more details.
+* [List of characters that are no longer used in chinese](rare_now_in_chinese.txt): See the file header for more details.

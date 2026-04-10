@@ -3,3 +3,5 @@ This file contains list of characters those
 
 匂 におう
 込 こむ
+躾 しつけ
+畑 はた
