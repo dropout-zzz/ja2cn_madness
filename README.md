@@ -1,3 +1,7 @@
+> [!WARNING]
+>
+> info collected from internet with my own understanding. expect a lot of mistakes. also, expect typos
+
 ## Contents
 
 * [List of chinese characters with same readings in each languages](pronunciation_mapping.txt): For transferring sound knowledges. Please read the start of the file for more information.
