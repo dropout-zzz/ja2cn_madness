@@ -5,3 +5,4 @@ This file contains list of characters those
 込 こむ
 躾 しつけ
 畑 はた
+枠 わく
