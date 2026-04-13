@@ -13,3 +13,7 @@ A few are no longer maintained, because of the following reasons: lacking of int
 * [List of *kokuji*](exclusive_chars.txt): Characters that are only present in Japanese. See the header in the file for more details.
 * [List of characters that are no longer used in chinese](rare_now_in_chinese.txt): See the file header for more details.
 * [List of characters with unique meaning assignment in japanese](exclusive_meaning.txt): See the file header for more information.
+
+## Similar projects
+
+My another project but for comparing Vietnamese and Chinese: https://github.com/dropout-zzz/vi2cn_madness
