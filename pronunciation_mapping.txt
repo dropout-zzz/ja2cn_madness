@@ -86,3 +86,4 @@ This file contains list of Kanji or Hanzi characters that
 きょう: 胸(xiōng) 兄(xiōng) 凶(xiōng)
 きょ: 許(xǔ) 虚(xū) 墟(xū)
 こう: 香(xiāng) 向(xiàng)
+ちょう: 庁(tīng) 聴(tīng)
