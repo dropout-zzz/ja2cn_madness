@@ -89,3 +89,4 @@ This file contains list of Kanji or Hanzi characters that
 ちょう: 庁(tīng) 聴(tīng)
 しゅう: 修(xiū) 秀(xiù)
 ゆう: 有(yǒu) 優(yōu) 憂(yōu) 幽(yōu) 遊(yóu) 友(yǒu) 誘(yòu)
+えい: 営(yíng) 映(yìng) 英(yīng)
