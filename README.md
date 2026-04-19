@@ -1,6 +1,6 @@
 > [!WARNING]
 >
-> info collected from internet with my own understanding. expect a lot of mistakes. also, expect typos
+> some info were collected from internet with my own understanding. expect a lot of mistakes. also, expect typos
 
 ## Contents
 
